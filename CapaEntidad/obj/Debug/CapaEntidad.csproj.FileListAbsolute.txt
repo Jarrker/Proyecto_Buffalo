@@ -4,3 +4,9 @@ D:\Repositorios\Proyecto\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyRefere
 D:\Repositorios\Proyecto\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
 D:\Repositorios\Proyecto\CapaEntidad\obj\Debug\CapaEntidad.dll
 D:\Repositorios\Proyecto\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\antho\Downloads\Proyecto_Buffalo-master (1)\Proyecto_Buffalo-master\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\antho\Downloads\Proyecto_Buffalo-master (1)\Proyecto_Buffalo-master\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\antho\Downloads\Proyecto_Buffalo-master (1)\Proyecto_Buffalo-master\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\antho\Downloads\Proyecto_Buffalo-master (1)\Proyecto_Buffalo-master\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\antho\Downloads\Proyecto_Buffalo-master (1)\Proyecto_Buffalo-master\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\antho\Downloads\Proyecto_Buffalo-master (1)\Proyecto_Buffalo-master\CapaEntidad\obj\Debug\CapaEntidad.pdb

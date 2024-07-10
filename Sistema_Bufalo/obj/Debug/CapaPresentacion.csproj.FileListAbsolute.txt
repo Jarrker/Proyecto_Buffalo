@@ -24,3 +24,31 @@ D:\Repositorios\Proyecto\Sistema_Bufalo\obj\Debug\Sistema_Bufalo.frmRegistrarVen
 D:\Repositorios\Proyecto\Sistema_Bufalo\obj\Debug\Sistema_Bufalo.frmClientes.resources
 D:\Repositorios\Proyecto\Sistema_Bufalo\obj\Debug\Sistema_Bufalo.frmDetalleMenu.resources
 D:\Repositorios\Proyecto\Sistema_Bufalo\obj\Debug\Sistema_Bufalo.frmProveedores.resources
+C:\Users\antho\Downloads\Proyecto_Buffalo-master (1)\Proyecto_Buffalo-master\Sistema_Bufalo\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\antho\Downloads\Proyecto_Buffalo-master (1)\Proyecto_Buffalo-master\Sistema_Bufalo\obj\Debug\Sistema_Bufalo.frmCategoria.resources
+C:\Users\antho\Downloads\Proyecto_Buffalo-master (1)\Proyecto_Buffalo-master\Sistema_Bufalo\obj\Debug\Sistema_Bufalo.frmClientes.resources
+C:\Users\antho\Downloads\Proyecto_Buffalo-master (1)\Proyecto_Buffalo-master\Sistema_Bufalo\obj\Debug\Sistema_Bufalo.frmDetalleMenu.resources
+C:\Users\antho\Downloads\Proyecto_Buffalo-master (1)\Proyecto_Buffalo-master\Sistema_Bufalo\obj\Debug\Sistema_Bufalo.frmGestionProducto.resources
+C:\Users\antho\Downloads\Proyecto_Buffalo-master (1)\Proyecto_Buffalo-master\Sistema_Bufalo\obj\Debug\Sistema_Bufalo.frmProveedores.resources
+C:\Users\antho\Downloads\Proyecto_Buffalo-master (1)\Proyecto_Buffalo-master\Sistema_Bufalo\obj\Debug\Sistema_Bufalo.frmRegistrarMenu.resources
+C:\Users\antho\Downloads\Proyecto_Buffalo-master (1)\Proyecto_Buffalo-master\Sistema_Bufalo\obj\Debug\Sistema_Bufalo.frmRegistrarVenta.resources
+C:\Users\antho\Downloads\Proyecto_Buffalo-master (1)\Proyecto_Buffalo-master\Sistema_Bufalo\obj\Debug\Sistema_Bufalo.frmReporteVentas.resources
+C:\Users\antho\Downloads\Proyecto_Buffalo-master (1)\Proyecto_Buffalo-master\Sistema_Bufalo\obj\Debug\Sistema_Bufalo.Inicio.resources
+C:\Users\antho\Downloads\Proyecto_Buffalo-master (1)\Proyecto_Buffalo-master\Sistema_Bufalo\obj\Debug\Sistema_Bufalo.login.resources
+C:\Users\antho\Downloads\Proyecto_Buffalo-master (1)\Proyecto_Buffalo-master\Sistema_Bufalo\obj\Debug\Sistema_Bufalo.Properties.Resources.resources
+C:\Users\antho\Downloads\Proyecto_Buffalo-master (1)\Proyecto_Buffalo-master\Sistema_Bufalo\obj\Debug\Sistema_Bufalo.frmEmpleados.resources
+C:\Users\antho\Downloads\Proyecto_Buffalo-master (1)\Proyecto_Buffalo-master\Sistema_Bufalo\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\antho\Downloads\Proyecto_Buffalo-master (1)\Proyecto_Buffalo-master\Sistema_Bufalo\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\antho\Downloads\Proyecto_Buffalo-master (1)\Proyecto_Buffalo-master\Sistema_Bufalo\obj\Debug\Sistema_Bufalo.exe
+C:\Users\antho\Downloads\Proyecto_Buffalo-master (1)\Proyecto_Buffalo-master\Sistema_Bufalo\obj\Debug\Sistema_Bufalo.pdb
+C:\Users\antho\Downloads\Proyecto_Buffalo-master (1)\Proyecto_Buffalo-master\Sistema_Bufalo\bin\Debug\Sistema_Bufalo.exe.config
+C:\Users\antho\Downloads\Proyecto_Buffalo-master (1)\Proyecto_Buffalo-master\Sistema_Bufalo\bin\Debug\Sistema_Bufalo.exe
+C:\Users\antho\Downloads\Proyecto_Buffalo-master (1)\Proyecto_Buffalo-master\Sistema_Bufalo\bin\Debug\Sistema_Bufalo.pdb
+C:\Users\antho\Downloads\Proyecto_Buffalo-master (1)\Proyecto_Buffalo-master\Sistema_Bufalo\bin\Debug\CapaEntidad.dll
+C:\Users\antho\Downloads\Proyecto_Buffalo-master (1)\Proyecto_Buffalo-master\Sistema_Bufalo\bin\Debug\CapaNegocio.dll
+C:\Users\antho\Downloads\Proyecto_Buffalo-master (1)\Proyecto_Buffalo-master\Sistema_Bufalo\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\antho\Downloads\Proyecto_Buffalo-master (1)\Proyecto_Buffalo-master\Sistema_Bufalo\bin\Debug\CapaDatos.dll
+C:\Users\antho\Downloads\Proyecto_Buffalo-master (1)\Proyecto_Buffalo-master\Sistema_Bufalo\bin\Debug\CapaEntidad.pdb
+C:\Users\antho\Downloads\Proyecto_Buffalo-master (1)\Proyecto_Buffalo-master\Sistema_Bufalo\bin\Debug\CapaNegocio.pdb
+C:\Users\antho\Downloads\Proyecto_Buffalo-master (1)\Proyecto_Buffalo-master\Sistema_Bufalo\bin\Debug\CapaDatos.pdb
+C:\Users\antho\Downloads\Proyecto_Buffalo-master (1)\Proyecto_Buffalo-master\Sistema_Bufalo\obj\Debug\CapaPres.61CA7C38.Up2Date

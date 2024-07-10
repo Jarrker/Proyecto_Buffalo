@@ -7,7 +7,6 @@ using System.Text;
 using System.Threading.Tasks;
 using CapaEntidad;
 
-
 namespace CapaDatos
 {
     public class CD_Cliente

@@ -1,73 +1,70 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\antho\\source\\repos\\Proyecto_Buffalo\\Sistema_Bufalo\\",
+  "WorkspaceRootPath": "C:\\Users\\antho\\Downloads\\Proyecto_Buffalo-master (1)\\Proyecto_Buffalo-master\\Sistema_Bufalo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EF7B7EA5-9478-4E13-81E6-CB7A1195D383}|CapaPresentacion.csproj|c:\\users\\antho\\source\\repos\\proyecto_buffalo\\sistema_bufalo\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF7B7EA5-9478-4E13-81E6-CB7A1195D383}|CapaPresentacion.csproj|solutionrelative:utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB167CF3-2B96-466E-8795-85DCEA12B13D}|..\\CapaDatos\\CapaDatos.csproj|c:\\users\\antho\\downloads\\proyecto_buffalo-master (1)\\proyecto_buffalo-master\\capadatos\\cd_rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF7B7EA5-9478-4E13-81E6-CB7A1195D383}|CapaPresentacion.csproj|c:\\users\\antho\\source\\repos\\proyecto_buffalo\\sistema_bufalo\\frmproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF7B7EA5-9478-4E13-81E6-CB7A1195D383}|CapaPresentacion.csproj|solutionrelative:frmproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB167CF3-2B96-466E-8795-85DCEA12B13D}|..\\CapaDatos\\CapaDatos.csproj|c:\\users\\antho\\downloads\\proyecto_buffalo-master (1)\\proyecto_buffalo-master\\capadatos\\cd_proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF7B7EA5-9478-4E13-81E6-CB7A1195D383}|CapaPresentacion.csproj|c:\\users\\antho\\source\\repos\\proyecto_buffalo\\sistema_bufalo\\frmproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EF7B7EA5-9478-4E13-81E6-CB7A1195D383}|CapaPresentacion.csproj|solutionrelative:frmproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{FB167CF3-2B96-466E-8795-85DCEA12B13D}|..\\CapaDatos\\CapaDatos.csproj|c:\\users\\antho\\downloads\\proyecto_buffalo-master (1)\\proyecto_buffalo-master\\capadatos\\cd_empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF7B7EA5-9478-4E13-81E6-CB7A1195D383}|CapaPresentacion.csproj|c:\\users\\antho\\source\\repos\\proyecto_buffalo\\sistema_bufalo\\frmempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF7B7EA5-9478-4E13-81E6-CB7A1195D383}|CapaPresentacion.csproj|solutionrelative:frmempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB167CF3-2B96-466E-8795-85DCEA12B13D}|..\\CapaDatos\\CapaDatos.csproj|c:\\users\\antho\\downloads\\proyecto_buffalo-master (1)\\proyecto_buffalo-master\\capadatos\\cd_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF7B7EA5-9478-4E13-81E6-CB7A1195D383}|CapaPresentacion.csproj|c:\\users\\antho\\source\\repos\\proyecto_buffalo\\sistema_bufalo\\frmempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EF7B7EA5-9478-4E13-81E6-CB7A1195D383}|CapaPresentacion.csproj|solutionrelative:frmempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1B0443EC-9A55-436F-9824-2FE3525771A9}|..\\CapaNegocio\\CapaNegocio.csproj|c:\\users\\antho\\downloads\\proyecto_buffalo-master (1)\\proyecto_buffalo-master\\capanegocio\\cn_rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF7B7EA5-9478-4E13-81E6-CB7A1195D383}|CapaPresentacion.csproj|c:\\users\\antho\\source\\repos\\proyecto_buffalo\\sistema_bufalo\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EF7B7EA5-9478-4E13-81E6-CB7A1195D383}|CapaPresentacion.csproj|solutionrelative:frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1B0443EC-9A55-436F-9824-2FE3525771A9}|..\\CapaNegocio\\CapaNegocio.csproj|c:\\users\\antho\\downloads\\proyecto_buffalo-master (1)\\proyecto_buffalo-master\\capanegocio\\cn_proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF7B7EA5-9478-4E13-81E6-CB7A1195D383}|CapaPresentacion.csproj|c:\\users\\antho\\source\\repos\\proyecto_buffalo\\sistema_bufalo\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF7B7EA5-9478-4E13-81E6-CB7A1195D383}|CapaPresentacion.csproj|solutionrelative:frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B0443EC-9A55-436F-9824-2FE3525771A9}|..\\CapaNegocio\\CapaNegocio.csproj|c:\\users\\antho\\downloads\\proyecto_buffalo-master (1)\\proyecto_buffalo-master\\capanegocio\\cn_empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B0443EC-9A55-436F-9824-2FE3525771A9}|..\\CapaNegocio\\CapaNegocio.csproj|c:\\users\\antho\\source\\repos\\proyecto_buffalo\\capanegocio\\cn_rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B0443EC-9A55-436F-9824-2FE3525771A9}|..\\CapaNegocio\\CapaNegocio.csproj|c:\\users\\antho\\downloads\\proyecto_buffalo-master (1)\\proyecto_buffalo-master\\capanegocio\\cn_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B0443EC-9A55-436F-9824-2FE3525771A9}|..\\CapaNegocio\\CapaNegocio.csproj|c:\\users\\antho\\source\\repos\\proyecto_buffalo\\capanegocio\\cn_proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{878E4A55-668D-476B-89EF-51ABCEDD8F78}|..\\CapaEntidad\\CapaEntidad.csproj|c:\\users\\antho\\downloads\\proyecto_buffalo-master (1)\\proyecto_buffalo-master\\capaentidad\\ce_rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B0443EC-9A55-436F-9824-2FE3525771A9}|..\\CapaNegocio\\CapaNegocio.csproj|c:\\users\\antho\\source\\repos\\proyecto_buffalo\\capanegocio\\cn_empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{878E4A55-668D-476B-89EF-51ABCEDD8F78}|..\\CapaEntidad\\CapaEntidad.csproj|c:\\users\\antho\\downloads\\proyecto_buffalo-master (1)\\proyecto_buffalo-master\\capaentidad\\ce_proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B0443EC-9A55-436F-9824-2FE3525771A9}|..\\CapaNegocio\\CapaNegocio.csproj|c:\\users\\antho\\source\\repos\\proyecto_buffalo\\capanegocio\\cn_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{878E4A55-668D-476B-89EF-51ABCEDD8F78}|..\\CapaEntidad\\CapaEntidad.csproj|c:\\users\\antho\\downloads\\proyecto_buffalo-master (1)\\proyecto_buffalo-master\\capaentidad\\ce_empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{878E4A55-668D-476B-89EF-51ABCEDD8F78}|..\\CapaEntidad\\CapaEntidad.csproj|c:\\users\\antho\\source\\repos\\proyecto_buffalo\\capaentidad\\ce_rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{878E4A55-668D-476B-89EF-51ABCEDD8F78}|..\\CapaEntidad\\CapaEntidad.csproj|c:\\users\\antho\\downloads\\proyecto_buffalo-master (1)\\proyecto_buffalo-master\\capaentidad\\ce_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{878E4A55-668D-476B-89EF-51ABCEDD8F78}|..\\CapaEntidad\\CapaEntidad.csproj|c:\\users\\antho\\source\\repos\\proyecto_buffalo\\capaentidad\\ce_proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB167CF3-2B96-466E-8795-85DCEA12B13D}|..\\CapaDatos\\CapaDatos.csproj|c:\\users\\antho\\downloads\\proyecto_buffalo-master (1)\\proyecto_buffalo-master\\capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{878E4A55-668D-476B-89EF-51ABCEDD8F78}|..\\CapaEntidad\\CapaEntidad.csproj|c:\\users\\antho\\source\\repos\\proyecto_buffalo\\capaentidad\\ce_empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{878E4A55-668D-476B-89EF-51ABCEDD8F78}|..\\CapaEntidad\\CapaEntidad.csproj|c:\\users\\antho\\downloads\\proyecto_buffalo-master (1)\\proyecto_buffalo-master\\capaentidad\\ce_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{878E4A55-668D-476B-89EF-51ABCEDD8F78}|..\\CapaEntidad\\CapaEntidad.csproj|c:\\users\\antho\\source\\repos\\proyecto_buffalo\\capaentidad\\ce_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EF7B7EA5-9478-4E13-81E6-CB7A1195D383}|CapaPresentacion.csproj|C:\\Users\\antho\\Downloads\\Proyecto_Buffalo-master (1)\\Proyecto_Buffalo-master\\Sistema_Bufalo\\frmcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7B7EA5-9478-4E13-81E6-CB7A1195D383}|CapaPresentacion.csproj|solutionrelative:frmcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB167CF3-2B96-466E-8795-85DCEA12B13D}|..\\CapaDatos\\CapaDatos.csproj|c:\\users\\antho\\source\\repos\\proyecto_buffalo\\capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EF7B7EA5-9478-4E13-81E6-CB7A1195D383}|CapaPresentacion.csproj|C:\\Users\\antho\\Downloads\\Proyecto_Buffalo-master (1)\\Proyecto_Buffalo-master\\Sistema_Bufalo\\frmgestionproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7B7EA5-9478-4E13-81E6-CB7A1195D383}|CapaPresentacion.csproj|solutionrelative:frmgestionproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB167CF3-2B96-466E-8795-85DCEA12B13D}|..\\CapaDatos\\CapaDatos.csproj|c:\\users\\antho\\source\\repos\\proyecto_buffalo\\capadatos\\cd_rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EF7B7EA5-9478-4E13-81E6-CB7A1195D383}|CapaPresentacion.csproj|C:\\Users\\antho\\Downloads\\Proyecto_Buffalo-master (1)\\Proyecto_Buffalo-master\\Sistema_Bufalo\\frmgestionproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF7B7EA5-9478-4E13-81E6-CB7A1195D383}|CapaPresentacion.csproj|solutionrelative:frmgestionproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB167CF3-2B96-466E-8795-85DCEA12B13D}|..\\CapaDatos\\CapaDatos.csproj|c:\\users\\antho\\source\\repos\\proyecto_buffalo\\capadatos\\cd_proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B0443EC-9A55-436F-9824-2FE3525771A9}|..\\CapaNegocio\\CapaNegocio.csproj|c:\\users\\antho\\downloads\\proyecto_buffalo-master (1)\\proyecto_buffalo-master\\capanegocio\\cn_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB167CF3-2B96-466E-8795-85DCEA12B13D}|..\\CapaDatos\\CapaDatos.csproj|c:\\users\\antho\\source\\repos\\proyecto_buffalo\\capadatos\\cd_empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB167CF3-2B96-466E-8795-85DCEA12B13D}|..\\CapaDatos\\CapaDatos.csproj|c:\\users\\antho\\downloads\\proyecto_buffalo-master (1)\\proyecto_buffalo-master\\capadatos\\cd_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB167CF3-2B96-466E-8795-85DCEA12B13D}|..\\CapaDatos\\CapaDatos.csproj|c:\\users\\antho\\source\\repos\\proyecto_buffalo\\capadatos\\cd_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EF7B7EA5-9478-4E13-81E6-CB7A1195D383}|CapaPresentacion.csproj|C:\\Users\\antho\\Downloads\\Proyecto_Buffalo-master (1)\\Proyecto_Buffalo-master\\Sistema_Bufalo\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7B7EA5-9478-4E13-81E6-CB7A1195D383}|CapaPresentacion.csproj|solutionrelative:inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -77,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -100,265 +97,256 @@
               "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Utilidades.cs",
-              "DocumentMoniker": "C:\\Users\\antho\\source\\repos\\Proyecto_Buffalo\\Sistema_Bufalo\\Utilidades.cs",
-              "RelativeDocumentMoniker": "Utilidades.cs",
-              "ToolTip": "C:\\Users\\antho\\source\\repos\\Proyecto_Buffalo\\Sistema_Bufalo\\Utilidades.cs",
-              "RelativeToolTip": "Utilidades.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Title": "CD_Rol.cs",
+              "DocumentMoniker": "C:\\Users\\antho\\Downloads\\Proyecto_Buffalo-master (1)\\Proyecto_Buffalo-master\\CapaDatos\\CD_Rol.cs",
+              "RelativeDocumentMoniker": "..\\CapaDatos\\CD_Rol.cs",
+              "ToolTip": "C:\\Users\\antho\\Downloads\\Proyecto_Buffalo-master (1)\\Proyecto_Buffalo-master\\CapaDatos\\CD_Rol.cs",
+              "RelativeToolTip": "..\\CapaDatos\\CD_Rol.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T03:55:02.07Z",
+              "WhenOpened": "2024-07-10T01:26:58.1Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "frmProveedores.cs",
-              "DocumentMoniker": "C:\\Users\\antho\\source\\repos\\Proyecto_Buffalo\\Sistema_Bufalo\\frmProveedores.cs",
-              "RelativeDocumentMoniker": "frmProveedores.cs",
-              "ToolTip": "C:\\Users\\antho\\source\\repos\\Proyecto_Buffalo\\Sistema_Bufalo\\frmProveedores.cs",
-              "RelativeToolTip": "frmProveedores.cs",
-              "ViewState": "AQIAAPUAAAAAAAAAAAAuwBkBAAANAAAA",
+              "Title": "CD_Proveedor.cs",
+              "DocumentMoniker": "C:\\Users\\antho\\Downloads\\Proyecto_Buffalo-master (1)\\Proyecto_Buffalo-master\\CapaDatos\\CD_Proveedor.cs",
+              "RelativeDocumentMoniker": "..\\CapaDatos\\CD_Proveedor.cs",
+              "ToolTip": "C:\\Users\\antho\\Downloads\\Proyecto_Buffalo-master (1)\\Proyecto_Buffalo-master\\CapaDatos\\CD_Proveedor.cs",
+              "RelativeToolTip": "..\\CapaDatos\\CD_Proveedor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T03:51:07.738Z",
+              "WhenOpened": "2024-07-10T01:26:56.381Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "frmProveedores.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\antho\\source\\repos\\Proyecto_Buffalo\\Sistema_Bufalo\\frmProveedores.cs",
-              "RelativeDocumentMoniker": "frmProveedores.cs",
-              "ToolTip": "C:\\Users\\antho\\source\\repos\\Proyecto_Buffalo\\Sistema_Bufalo\\frmProveedores.cs [Dise\u00F1o]",
-              "RelativeToolTip": "frmProveedores.cs [Dise\u00F1o]",
+              "Title": "CD_Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\antho\\Downloads\\Proyecto_Buffalo-master (1)\\Proyecto_Buffalo-master\\CapaDatos\\CD_Empleado.cs",
+              "RelativeDocumentMoniker": "..\\CapaDatos\\CD_Empleado.cs",
+              "ToolTip": "C:\\Users\\antho\\Downloads\\Proyecto_Buffalo-master (1)\\Proyecto_Buffalo-master\\CapaDatos\\CD_Empleado.cs",
+              "RelativeToolTip": "..\\CapaDatos\\CD_Empleado.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T03:51:05.46Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-07-10T01:26:49.88Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "frmEmpleados.cs",
-              "DocumentMoniker": "C:\\Users\\antho\\source\\repos\\Proyecto_Buffalo\\Sistema_Bufalo\\frmEmpleados.cs",
-              "RelativeDocumentMoniker": "frmEmpleados.cs",
-              "ToolTip": "C:\\Users\\antho\\source\\repos\\Proyecto_Buffalo\\Sistema_Bufalo\\frmEmpleados.cs",
-              "RelativeToolTip": "frmEmpleados.cs",
-              "ViewState": "AQIAABgBAAAAAAAAAAAAADkBAAANAAAA",
+              "Title": "CD_Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\antho\\Downloads\\Proyecto_Buffalo-master (1)\\Proyecto_Buffalo-master\\CapaDatos\\CD_Cliente.cs",
+              "RelativeDocumentMoniker": "..\\CapaDatos\\CD_Cliente.cs",
+              "ToolTip": "C:\\Users\\antho\\Downloads\\Proyecto_Buffalo-master (1)\\Proyecto_Buffalo-master\\CapaDatos\\CD_Cliente.cs",
+              "RelativeToolTip": "..\\CapaDatos\\CD_Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T03:47:47.673Z",
+              "WhenOpened": "2024-07-10T01:26:47.371Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "frmEmpleados.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\antho\\source\\repos\\Proyecto_Buffalo\\Sistema_Bufalo\\frmEmpleados.cs",
-              "RelativeDocumentMoniker": "frmEmpleados.cs",
-              "ToolTip": "C:\\Users\\antho\\source\\repos\\Proyecto_Buffalo\\Sistema_Bufalo\\frmEmpleados.cs [Dise\u00F1o]",
-              "RelativeToolTip": "frmEmpleados.cs [Dise\u00F1o]",
+              "Title": "CN_Rol.cs",
+              "DocumentMoniker": "C:\\Users\\antho\\Downloads\\Proyecto_Buffalo-master (1)\\Proyecto_Buffalo-master\\CapaNegocio\\CN_Rol.cs",
+              "RelativeDocumentMoniker": "..\\CapaNegocio\\CN_Rol.cs",
+              "ToolTip": "C:\\Users\\antho\\Downloads\\Proyecto_Buffalo-master (1)\\Proyecto_Buffalo-master\\CapaNegocio\\CN_Rol.cs",
+              "RelativeToolTip": "..\\CapaNegocio\\CN_Rol.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T03:47:39.774Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "frmClientes.cs",
-              "DocumentMoniker": "C:\\Users\\antho\\source\\repos\\Proyecto_Buffalo\\Sistema_Bufalo\\frmClientes.cs",
-              "RelativeDocumentMoniker": "frmClientes.cs",
-              "ToolTip": "C:\\Users\\antho\\source\\repos\\Proyecto_Buffalo\\Sistema_Bufalo\\frmClientes.cs",
-              "RelativeToolTip": "frmClientes.cs",
-              "ViewState": "AQIAAAMBAAAAAAAAAAAAACQBAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T03:42:50.757Z",
+              "WhenOpened": "2024-07-10T01:26:44.004Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "frmClientes.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\antho\\source\\repos\\Proyecto_Buffalo\\Sistema_Bufalo\\frmClientes.cs",
-              "RelativeDocumentMoniker": "frmClientes.cs",
-              "ToolTip": "C:\\Users\\antho\\source\\repos\\Proyecto_Buffalo\\Sistema_Bufalo\\frmClientes.cs [Dise\u00F1o]",
-              "RelativeToolTip": "frmClientes.cs [Dise\u00F1o]",
+              "Title": "CN_Proveedor.cs",
+              "DocumentMoniker": "C:\\Users\\antho\\Downloads\\Proyecto_Buffalo-master (1)\\Proyecto_Buffalo-master\\CapaNegocio\\CN_Proveedor.cs",
+              "RelativeDocumentMoniker": "..\\CapaNegocio\\CN_Proveedor.cs",
+              "ToolTip": "C:\\Users\\antho\\Downloads\\Proyecto_Buffalo-master (1)\\Proyecto_Buffalo-master\\CapaNegocio\\CN_Proveedor.cs",
+              "RelativeToolTip": "..\\CapaNegocio\\CN_Proveedor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T03:42:27.518Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-07-10T01:26:42.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CN_Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\antho\\Downloads\\Proyecto_Buffalo-master (1)\\Proyecto_Buffalo-master\\CapaNegocio\\CN_Empleado.cs",
+              "RelativeDocumentMoniker": "..\\CapaNegocio\\CN_Empleado.cs",
+              "ToolTip": "C:\\Users\\antho\\Downloads\\Proyecto_Buffalo-master (1)\\Proyecto_Buffalo-master\\CapaNegocio\\CN_Empleado.cs",
+              "RelativeToolTip": "..\\CapaNegocio\\CN_Empleado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T01:26:37.707Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "CN_Rol.cs",
-              "DocumentMoniker": "C:\\Users\\antho\\source\\repos\\Proyecto_Buffalo\\CapaNegocio\\CN_Rol.cs",
-              "RelativeDocumentMoniker": "..\\CapaNegocio\\CN_Rol.cs",
-              "ToolTip": "C:\\Users\\antho\\source\\repos\\Proyecto_Buffalo\\CapaNegocio\\CN_Rol.cs",
-              "RelativeToolTip": "..\\CapaNegocio\\CN_Rol.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Title": "CN_Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\antho\\Downloads\\Proyecto_Buffalo-master (1)\\Proyecto_Buffalo-master\\CapaNegocio\\CN_Cliente.cs",
+              "RelativeDocumentMoniker": "..\\CapaNegocio\\CN_Cliente.cs",
+              "ToolTip": "C:\\Users\\antho\\Downloads\\Proyecto_Buffalo-master (1)\\Proyecto_Buffalo-master\\CapaNegocio\\CN_Cliente.cs",
+              "RelativeToolTip": "..\\CapaNegocio\\CN_Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T03:42:13.72Z",
+              "WhenOpened": "2024-07-10T01:26:36.635Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "CN_Proveedor.cs",
-              "DocumentMoniker": "C:\\Users\\antho\\source\\repos\\Proyecto_Buffalo\\CapaNegocio\\CN_Proveedor.cs",
-              "RelativeDocumentMoniker": "..\\CapaNegocio\\CN_Proveedor.cs",
-              "ToolTip": "C:\\Users\\antho\\source\\repos\\Proyecto_Buffalo\\CapaNegocio\\CN_Proveedor.cs",
-              "RelativeToolTip": "..\\CapaNegocio\\CN_Proveedor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF4AAAAAAAAA",
+              "Title": "CE_Rol.cs",
+              "DocumentMoniker": "C:\\Users\\antho\\Downloads\\Proyecto_Buffalo-master (1)\\Proyecto_Buffalo-master\\CapaEntidad\\CE_Rol.cs",
+              "RelativeDocumentMoniker": "..\\CapaEntidad\\CE_Rol.cs",
+              "ToolTip": "C:\\Users\\antho\\Downloads\\Proyecto_Buffalo-master (1)\\Proyecto_Buffalo-master\\CapaEntidad\\CE_Rol.cs",
+              "RelativeToolTip": "..\\CapaEntidad\\CE_Rol.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T03:41:52.671Z",
+              "WhenOpened": "2024-07-10T01:26:31.192Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "CN_Empleado.cs",
-              "DocumentMoniker": "C:\\Users\\antho\\source\\repos\\Proyecto_Buffalo\\CapaNegocio\\CN_Empleado.cs",
-              "RelativeDocumentMoniker": "..\\CapaNegocio\\CN_Empleado.cs",
-              "ToolTip": "C:\\Users\\antho\\source\\repos\\Proyecto_Buffalo\\CapaNegocio\\CN_Empleado.cs",
-              "RelativeToolTip": "..\\CapaNegocio\\CN_Empleado.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFMAAAAAAAAA",
+              "Title": "CE_Proveedor.cs",
+              "DocumentMoniker": "C:\\Users\\antho\\Downloads\\Proyecto_Buffalo-master (1)\\Proyecto_Buffalo-master\\CapaEntidad\\CE_Proveedor.cs",
+              "RelativeDocumentMoniker": "..\\CapaEntidad\\CE_Proveedor.cs",
+              "ToolTip": "C:\\Users\\antho\\Downloads\\Proyecto_Buffalo-master (1)\\Proyecto_Buffalo-master\\CapaEntidad\\CE_Proveedor.cs",
+              "RelativeToolTip": "..\\CapaEntidad\\CE_Proveedor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T03:41:21.89Z",
+              "WhenOpened": "2024-07-10T01:26:29.947Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "CN_Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\antho\\source\\repos\\Proyecto_Buffalo\\CapaNegocio\\CN_Cliente.cs",
-              "RelativeDocumentMoniker": "..\\CapaNegocio\\CN_Cliente.cs",
-              "ToolTip": "C:\\Users\\antho\\source\\repos\\Proyecto_Buffalo\\CapaNegocio\\CN_Cliente.cs",
-              "RelativeToolTip": "..\\CapaNegocio\\CN_Cliente.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF8AAAAAAAAA",
+              "Title": "CE_Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\antho\\Downloads\\Proyecto_Buffalo-master (1)\\Proyecto_Buffalo-master\\CapaEntidad\\CE_Empleado.cs",
+              "RelativeDocumentMoniker": "..\\CapaEntidad\\CE_Empleado.cs",
+              "ToolTip": "C:\\Users\\antho\\Downloads\\Proyecto_Buffalo-master (1)\\Proyecto_Buffalo-master\\CapaEntidad\\CE_Empleado.cs",
+              "RelativeToolTip": "..\\CapaEntidad\\CE_Empleado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T03:40:51.674Z",
+              "WhenOpened": "2024-07-10T01:26:27.621Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "CE_Rol.cs",
-              "DocumentMoniker": "C:\\Users\\antho\\source\\repos\\Proyecto_Buffalo\\CapaEntidad\\CE_Rol.cs",
-              "RelativeDocumentMoniker": "..\\CapaEntidad\\CE_Rol.cs",
-              "ToolTip": "C:\\Users\\antho\\source\\repos\\Proyecto_Buffalo\\CapaEntidad\\CE_Rol.cs",
-              "RelativeToolTip": "..\\CapaEntidad\\CE_Rol.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Title": "CE_Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\antho\\Downloads\\Proyecto_Buffalo-master (1)\\Proyecto_Buffalo-master\\CapaEntidad\\CE_Cliente.cs",
+              "RelativeDocumentMoniker": "..\\CapaEntidad\\CE_Cliente.cs",
+              "ToolTip": "C:\\Users\\antho\\Downloads\\Proyecto_Buffalo-master (1)\\Proyecto_Buffalo-master\\CapaEntidad\\CE_Cliente.cs",
+              "RelativeToolTip": "..\\CapaEntidad\\CE_Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T03:40:17.333Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CE_Proveedor.cs",
-              "DocumentMoniker": "C:\\Users\\antho\\source\\repos\\Proyecto_Buffalo\\CapaEntidad\\CE_Proveedor.cs",
-              "RelativeDocumentMoniker": "..\\CapaEntidad\\CE_Proveedor.cs",
-              "ToolTip": "C:\\Users\\antho\\source\\repos\\Proyecto_Buffalo\\CapaEntidad\\CE_Proveedor.cs",
-              "RelativeToolTip": "..\\CapaEntidad\\CE_Proveedor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T03:39:51.902Z",
+              "WhenOpened": "2024-07-10T01:26:25.07Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "CE_Empleado.cs",
-              "DocumentMoniker": "C:\\Users\\antho\\source\\repos\\Proyecto_Buffalo\\CapaEntidad\\CE_Empleado.cs",
-              "RelativeDocumentMoniker": "..\\CapaEntidad\\CE_Empleado.cs",
-              "ToolTip": "C:\\Users\\antho\\source\\repos\\Proyecto_Buffalo\\CapaEntidad\\CE_Empleado.cs",
-              "RelativeToolTip": "..\\CapaEntidad\\CE_Empleado.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Title": "CE_Producto.cs",
+              "DocumentMoniker": "C:\\Users\\antho\\Downloads\\Proyecto_Buffalo-master (1)\\Proyecto_Buffalo-master\\CapaEntidad\\CE_Producto.cs",
+              "RelativeDocumentMoniker": "..\\CapaEntidad\\CE_Producto.cs",
+              "ToolTip": "C:\\Users\\antho\\Downloads\\Proyecto_Buffalo-master (1)\\Proyecto_Buffalo-master\\CapaEntidad\\CE_Producto.cs",
+              "RelativeToolTip": "..\\CapaEntidad\\CE_Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T03:39:27.347Z",
+              "WhenOpened": "2024-07-10T00:50:00.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CN_Producto.cs",
+              "DocumentMoniker": "C:\\Users\\antho\\Downloads\\Proyecto_Buffalo-master (1)\\Proyecto_Buffalo-master\\CapaNegocio\\CN_Producto.cs",
+              "RelativeDocumentMoniker": "..\\CapaNegocio\\CN_Producto.cs",
+              "ToolTip": "C:\\Users\\antho\\Downloads\\Proyecto_Buffalo-master (1)\\Proyecto_Buffalo-master\\CapaNegocio\\CN_Producto.cs",
+              "RelativeToolTip": "..\\CapaNegocio\\CN_Producto.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAYwBAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T00:49:56.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmGestionProducto.cs",
+              "DocumentMoniker": "C:\\Users\\antho\\Downloads\\Proyecto_Buffalo-master (1)\\Proyecto_Buffalo-master\\Sistema_Bufalo\\frmGestionProducto.cs",
+              "RelativeDocumentMoniker": "frmGestionProducto.cs",
+              "ToolTip": "C:\\Users\\antho\\Downloads\\Proyecto_Buffalo-master (1)\\Proyecto_Buffalo-master\\Sistema_Bufalo\\frmGestionProducto.cs",
+              "RelativeToolTip": "frmGestionProducto.cs",
+              "ViewState": "AQIAANMAAAAAAAAAAADwv+gAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T00:11:24.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmGestionProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\antho\\Downloads\\Proyecto_Buffalo-master (1)\\Proyecto_Buffalo-master\\Sistema_Bufalo\\frmGestionProducto.cs",
+              "RelativeDocumentMoniker": "frmGestionProducto.cs",
+              "ToolTip": "C:\\Users\\antho\\Downloads\\Proyecto_Buffalo-master (1)\\Proyecto_Buffalo-master\\Sistema_Bufalo\\frmGestionProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmGestionProducto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T19:59:31.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Inicio.cs",
+              "DocumentMoniker": "C:\\Users\\antho\\Downloads\\Proyecto_Buffalo-master (1)\\Proyecto_Buffalo-master\\Sistema_Bufalo\\Inicio.cs",
+              "RelativeDocumentMoniker": "Inicio.cs",
+              "ToolTip": "C:\\Users\\antho\\Downloads\\Proyecto_Buffalo-master (1)\\Proyecto_Buffalo-master\\Sistema_Bufalo\\Inicio.cs",
+              "RelativeToolTip": "Inicio.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAEwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T20:01:13.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\antho\\Downloads\\Proyecto_Buffalo-master (1)\\Proyecto_Buffalo-master\\CapaDatos\\Conexion.cs",
+              "RelativeDocumentMoniker": "..\\CapaDatos\\Conexion.cs",
+              "ToolTip": "C:\\Users\\antho\\Downloads\\Proyecto_Buffalo-master (1)\\Proyecto_Buffalo-master\\CapaDatos\\Conexion.cs",
+              "RelativeToolTip": "..\\CapaDatos\\Conexion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T22:46:29.013Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "CE_Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\antho\\source\\repos\\Proyecto_Buffalo\\CapaEntidad\\CE_Cliente.cs",
-              "RelativeDocumentMoniker": "..\\CapaEntidad\\CE_Cliente.cs",
-              "ToolTip": "C:\\Users\\antho\\source\\repos\\Proyecto_Buffalo\\CapaEntidad\\CE_Cliente.cs",
-              "RelativeToolTip": "..\\CapaEntidad\\CE_Cliente.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Title": "frmCategoria.cs",
+              "DocumentMoniker": "C:\\Users\\antho\\Downloads\\Proyecto_Buffalo-master (1)\\Proyecto_Buffalo-master\\Sistema_Bufalo\\frmCategoria.cs",
+              "RelativeDocumentMoniker": "frmCategoria.cs",
+              "ToolTip": "C:\\Users\\antho\\Downloads\\Proyecto_Buffalo-master (1)\\Proyecto_Buffalo-master\\Sistema_Bufalo\\frmCategoria.cs",
+              "RelativeToolTip": "frmCategoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T03:39:03.94Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Conexion.cs",
-              "DocumentMoniker": "C:\\Users\\antho\\source\\repos\\Proyecto_Buffalo\\CapaDatos\\Conexion.cs",
-              "RelativeDocumentMoniker": "..\\CapaDatos\\Conexion.cs",
-              "ToolTip": "C:\\Users\\antho\\source\\repos\\Proyecto_Buffalo\\CapaDatos\\Conexion.cs",
-              "RelativeToolTip": "..\\CapaDatos\\Conexion.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T03:37:25.134Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "CD_Rol.cs",
-              "DocumentMoniker": "C:\\Users\\antho\\source\\repos\\Proyecto_Buffalo\\CapaDatos\\CD_Rol.cs",
-              "RelativeDocumentMoniker": "..\\CapaDatos\\CD_Rol.cs",
-              "ToolTip": "C:\\Users\\antho\\source\\repos\\Proyecto_Buffalo\\CapaDatos\\CD_Rol.cs",
-              "RelativeToolTip": "..\\CapaDatos\\CD_Rol.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T03:36:54.657Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "CD_Proveedor.cs",
-              "DocumentMoniker": "C:\\Users\\antho\\source\\repos\\Proyecto_Buffalo\\CapaDatos\\CD_Proveedor.cs",
-              "RelativeDocumentMoniker": "..\\CapaDatos\\CD_Proveedor.cs",
-              "ToolTip": "C:\\Users\\antho\\source\\repos\\Proyecto_Buffalo\\CapaDatos\\CD_Proveedor.cs",
-              "RelativeToolTip": "..\\CapaDatos\\CD_Proveedor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T03:36:27.387Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-10T00:55:29.963Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "CD_Empleado.cs",
-              "DocumentMoniker": "C:\\Users\\antho\\source\\repos\\Proyecto_Buffalo\\CapaDatos\\CD_Empleado.cs",
-              "RelativeDocumentMoniker": "..\\CapaDatos\\CD_Empleado.cs",
-              "ToolTip": "C:\\Users\\antho\\source\\repos\\Proyecto_Buffalo\\CapaDatos\\CD_Empleado.cs",
-              "RelativeToolTip": "..\\CapaDatos\\CD_Empleado.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKkAAAAAAAAA",
+              "Title": "CD_Producto.cs",
+              "DocumentMoniker": "C:\\Users\\antho\\Downloads\\Proyecto_Buffalo-master (1)\\Proyecto_Buffalo-master\\CapaDatos\\CD_Producto.cs",
+              "RelativeDocumentMoniker": "..\\CapaDatos\\CD_Producto.cs",
+              "ToolTip": "C:\\Users\\antho\\Downloads\\Proyecto_Buffalo-master (1)\\Proyecto_Buffalo-master\\CapaDatos\\CD_Producto.cs",
+              "RelativeToolTip": "..\\CapaDatos\\CD_Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKAAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T03:35:59.799Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "CD_Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\antho\\source\\repos\\Proyecto_Buffalo\\CapaDatos\\CD_Cliente.cs",
-              "RelativeDocumentMoniker": "..\\CapaDatos\\CD_Cliente.cs",
-              "ToolTip": "C:\\Users\\antho\\source\\repos\\Proyecto_Buffalo\\CapaDatos\\CD_Cliente.cs",
-              "RelativeToolTip": "..\\CapaDatos\\CD_Cliente.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T03:34:32.865Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-10T00:50:29.81Z"
             }
           ]
         }

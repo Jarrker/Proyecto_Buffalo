@@ -1,6 +1,4 @@
-﻿using CapaEntidad;
-using CapaNegocio;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -9,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using CapaEntidad;
+using CapaNegocio;
 
 namespace Sistema_Bufalo
 {
@@ -228,7 +228,7 @@ namespace Sistema_Bufalo
                 e.Handled = true;
                 return;
             }
-
+            
             if (textBox.Text.Length >= 8)
             {
                 e.Handled = true;

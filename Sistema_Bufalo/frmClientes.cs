@@ -1,5 +1,5 @@
-﻿using CapaEntidad;
-using CapaNegocio;
+﻿using CapaNegocio;
+using CapaEntidad;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -9,6 +9,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Windows.Controls;
+using TextBox = System.Windows.Controls.TextBox;
 
 namespace Sistema_Bufalo
 {
@@ -235,22 +237,6 @@ namespace Sistema_Bufalo
             }
         }
 
-        private void txtNombreCompleto_KeyPress(object sender, KeyPressEventArgs e)
-        {
-            TextBox textBox = sender as TextBox;
-
-            if (e.KeyChar == ' ' && textBox.Text.Length == 0)
-            {
-                e.Handled = true;
-                return;
-            }
-
-            if (!char.IsControl(e.KeyChar) && !char.IsLetter(e.KeyChar) && e.KeyChar != ' ')
-            {
-                e.Handled = true;
-            }
-        }
-
         private void txtCorreo_KeyPress(object sender, KeyPressEventArgs e)
         {
             TextBox textBox = sender as TextBox;
@@ -267,6 +253,22 @@ namespace Sistema_Bufalo
                 e.KeyChar != '@' &&
                 e.KeyChar != '-' &&
                 e.KeyChar != '_' && e.KeyChar != ' ')
+            {
+                e.Handled = true;
+            }
+        }
+
+        private void txtNombreCompleto_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            TextBox textBox = sender as TextBox;
+
+            if (e.KeyChar == ' ' && textBox.Text.Length == 0)
+            {
+                e.Handled = true;
+                return;
+            }
+
+            if (!char.IsControl(e.KeyChar) && !char.IsLetter(e.KeyChar) && e.KeyChar != ' ')
             {
                 e.Handled = true;
             }

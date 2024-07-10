@@ -17,7 +17,6 @@ namespace Sistema_Bufalo
         public frmEmpleados()
         {
             InitializeComponent();
-
             dgvData.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.None;
 
             for (int i = 1; i < dgvData.Columns.Count; i++)
